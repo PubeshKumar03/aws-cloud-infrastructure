@@ -44,3 +44,19 @@ Successfully deployed AWS infrastructure and tested automated monitoring and ema
 
 ## Skills Demonstrated
 AWS Cloud | Linux | Networking | EC2 | VPC | S3 | IAM | CloudWatch | SNS | Monitoring
+
+## Project Screenshots
+
+The following screenshots document the AWS deployment and monitoring workflow.
+
+| Area | Screenshot |
+|---|---|
+| EC2 instance | ![EC2 instance](screenshots/01-ec2-instance.png) |
+| VPC configuration | ![VPC configuration](screenshots/02-vpc-configuration.png) |
+| S3 bucket | ![S3 bucket](screenshots/03-s3-bucket.png) |
+| S3 static website hosting | ![S3 static website hosting](screenshots/04-s3-static-hosting.png) |
+| S3 bucket policy | ![S3 bucket policy](screenshots/05-s3-bucket-policy.png) |
+| Live static website | ![Live website](screenshots/06-live-website.png) |
+| CloudWatch alarm — OK | ![CloudWatch alarm OK](screenshots/07-cloudwatch-alarm-ok.png) |
+| CloudWatch alarm — ALARM | ![CloudWatch alarm triggered](screenshots/08-cloudwatch-alarm-triggered.png) |
+| SNS email notification | ![SNS email notification](screenshots/09-sns-email-notification.png) |
