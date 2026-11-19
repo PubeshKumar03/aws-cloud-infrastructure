@@ -51,12 +51,12 @@ The following screenshots document the AWS deployment and monitoring workflow.
 
 | Area | Screenshot |
 |---|---|
-| EC2 instance | ![EC2 instance](screenshots/01-ec2-instance.png.png) |
-| VPC configuration | ![VPC configuration](screenshots/02-vpc-configuration.png.png) |
-| S3 bucket | ![S3 bucket](screenshots/03-s3-bucket.png.png) |
-| S3 static website hosting | ![S3 static website hosting](screenshots/04-s3-static-hosting.png.png) |
-| S3 bucket policy | ![S3 bucket policy](screenshots/05-s3-bucket-policy.png.png) |
-| Live static website | ![Live website](screenshots/06-live-website.png.png) |
-| CloudWatch alarm — OK | ![CloudWatch alarm OK](screenshots/07-cloudwatch-alarm-ok.png.png) |
-| CloudWatch alarm — ALARM | ![CloudWatch alarm triggered](screenshots/08-cloudwatch-alarm-triggered.png.png) |
-| SNS email notification | ![SNS email notification](screenshots/09-sns-email-notification.png.png) |
+| EC2 instance | ![EC2 instance](01-ec2-instance.png.png) |
+| VPC configuration | ![VPC configuration](02-vpc-configuration.png.png) |
+| S3 bucket | ![S3 bucket](03-s3-bucket.png.png) |
+| S3 static website hosting | ![S3 static website hosting](04-s3-static-hosting.png.png) |
+| S3 bucket policy | ![S3 bucket policy](05-s3-bucket-policy.png.png) |
+| Live static website | ![Live website](06-live-website.png.png) |
+| CloudWatch alarm — OK | ![CloudWatch alarm OK](07-cloudwatch-alarm-ok.png.png) |
+| CloudWatch alarm — ALARM | ![CloudWatch alarm triggered](08-cloudwatch-alarm-triggered.png.png) |
+| SNS email notification | ![SNS email notification](09-sns-email-notification.png.png) |
